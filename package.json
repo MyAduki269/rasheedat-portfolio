@@ -1,0 +1,1 @@
+{"name":"rasheedat-portfolio","version":"1.0.0","private":true,"scripts":{"build":"python3 build.py","check":"node --check dist/app.js && python3 check.py"}}
